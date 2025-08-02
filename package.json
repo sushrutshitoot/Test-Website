@@ -1,0 +1,40 @@
+{
+  "name": "three-cats-and-co-website",
+  "version": "1.0.0",
+  "description": "A beautiful website for Three Cats & Co. - Bold & Easy Coloring Books business",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx live-server --port=3000 --open=/index.html",
+    "dev": "npx live-server --port=3000 --open=/index.html --watch",
+    "build": "echo 'This is a static website, no build process needed'",
+    "deploy": "echo 'Deploy to your hosting provider'"
+  },
+  "keywords": [
+    "coloring-books",
+    "india",
+    "art",
+    "creative",
+    "small-business",
+    "website",
+    "responsive",
+    "modern"
+  ],
+  "author": "Three Cats & Co.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/three-cats-and-co/website.git"
+  },
+  "homepage": "https://three-cats-and-co.github.io/website",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
