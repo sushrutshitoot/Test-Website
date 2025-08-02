@@ -372,7 +372,7 @@ if (document.readyState === 'loading') {
                 <i class="fas fa-palette"></i>
             </div>
             <div class="spinner"></div>
-            <div class="preloader-text">Loading ColorCraft India...</div>
+                         <div class="preloader-text">Loading Three Cats & Co...</div>
         </div>
     `;
     
@@ -447,4 +447,4 @@ const rippleStyleSheet = document.createElement('style');
 rippleStyleSheet.textContent = rippleStyles;
 document.head.appendChild(rippleStyleSheet);
 
-console.log('ColorCraft India website loaded successfully! 🎨');
+console.log('Three Cats & Co. website loaded successfully! 🎨');

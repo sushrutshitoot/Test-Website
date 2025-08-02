@@ -1,7 +1,7 @@
 {
-  "name": "colorcraft-india-website",
+  "name": "three-cats-and-co-website",
   "version": "1.0.0",
-  "description": "A beautiful website for ColorCraft India - Bold & Easy Coloring Books business",
+  "description": "A beautiful website for Three Cats & Co. - Bold & Easy Coloring Books business",
   "main": "index.html",
   "scripts": {
     "start": "npx live-server --port=3000 --open=/index.html",
@@ -19,13 +19,13 @@
     "responsive",
     "modern"
   ],
-  "author": "ColorCraft India",
+  "author": "Three Cats & Co.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colorcraft-india/website.git"
+    "url": "https://github.com/three-cats-and-co/website.git"
   },
-  "homepage": "https://colorcraft-india.github.io/website",
+  "homepage": "https://three-cats-and-co.github.io/website",
   "devDependencies": {
     "live-server": "^1.2.2"
   },

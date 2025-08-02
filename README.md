@@ -1,6 +1,6 @@
-# ColorCraft India - Bold & Easy Coloring Books
+# Three Cats & Co. - Bold & Easy Coloring Books
 
-A beautiful, modern website for ColorCraft India, a small business specializing in bold and easy coloring books made in India.
+A beautiful, modern website for Three Cats & Co., a small business specializing in bold and easy coloring books made in India.
 
 ## 🎨 Features
 
@@ -23,7 +23,7 @@ A beautiful, modern website for ColorCraft India, a small business specializing 
 
 1. **Clone or download the repository**
    ```bash
-   git clone https://github.com/colorcraft-india/website.git
+   git clone https://github.com/three-cats-and-co/website.git
    cd website
    ```
 
@@ -41,7 +41,7 @@ A beautiful, modern website for ColorCraft India, a small business specializing 
 ## 📁 Project Structure
 
 ```
-colorcraft-india-website/
+three-cats-and-co-website/
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS styles and responsive design
 ├── script.js           # JavaScript functionality
@@ -62,7 +62,7 @@ Update the following in `index.html`:
    <span>Your City, Your State, India</span>
    ```
 
-2. **Business Name**: Replace "ColorCraft India" throughout the file
+2. **Business Name**: Replace "Three Cats & Co." throughout the file
 
 3. **Product Information**: Update the products section with your actual coloring books
 
